@@ -1,0 +1,562 @@
+[
+  {
+    "id": "cnbc_0_1789063325893",
+    "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
+    "snippet": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
+    "link": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
+    "source": "CNBC",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Controversy & Legal",
+    "totalScore": 70,
+    "details": {
+      "controversy": 80,
+      "shockValue": 60,
+      "walletImpact": 70
+    }
+  },
+  {
+    "id": "cnbc_1_1789063325894",
+    "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+    "snippet": "Traders pushed chances for a rate increase to 70% in morning action.",
+    "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+    "source": "CNBC",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Market Shock & Volatility",
+    "totalScore": 59,
+    "details": {
+      "controversy": 30,
+      "shockValue": 60,
+      "walletImpact": 80
+    }
+  },
+  {
+    "id": "cnbc_2_1789063325894",
+    "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
+    "snippet": "ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.",
+    "link": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
+    "source": "CNBC",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Controversy & Legal",
+    "totalScore": 51,
+    "details": {
+      "controversy": 85,
+      "shockValue": 70,
+      "walletImpact": 10
+    }
+  },
+  {
+    "id": "cnbc_3_1789063325894",
+    "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+    "snippet": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling, and pitchbook tasks traditionally handled by junior bankers.",
+    "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+    "source": "CNBC",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 47,
+    "details": {
+      "controversy": 40,
+      "shockValue": 50,
+      "walletImpact": 50
+    }
+  },
+  {
+    "id": "cnbc_4_1789063325894",
+    "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
+    "snippet": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
+    "link": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
+    "source": "CNBC",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 37,
+    "details": {
+      "controversy": 40,
+      "shockValue": 30,
+      "walletImpact": 40
+    }
+  },
+  {
+    "id": "marketwatch_0_1789063328605",
+    "title": "The future of retirement: Work until you die",
+    "snippet": "Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.",
+    "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 77,
+    "details": {
+      "controversy": 70,
+      "shockValue": 80,
+      "walletImpact": 80
+    }
+  },
+  {
+    "id": "marketwatch_1_1789063328605",
+    "title": "Investors should be eating up these 9 restaurant stocks, analysts say",
+    "snippet": "Contrarian investors have opportunities for double-digit percentage gains in inflation-battered stocks, if gas prices come down.",
+    "link": "https://www.marketwatch.com/story/investors-should-be-eating-up-these-9-restaurant-stocks-analysts-say-b308b238?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 22,
+    "details": {
+      "controversy": 10,
+      "shockValue": 10,
+      "walletImpact": 40
+    }
+  },
+  {
+    "id": "marketwatch_2_1789063328605",
+    "title": "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
+    "snippet": "Rising healthcare costs have been a major issue for lawmakers in recent years.",
+    "link": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 63,
+    "details": {
+      "controversy": 60,
+      "shockValue": 50,
+      "walletImpact": 75
+    }
+  },
+  {
+    "id": "marketwatch_3_1789063328605",
+    "title": "My mother, 87, wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
+    "snippet": "“Over the years, my mother and I have supplemented his income.”",
+    "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 30,
+    "details": {
+      "controversy": 40,
+      "shockValue": 20,
+      "walletImpact": 30
+    }
+  },
+  {
+    "id": "marketwatch_4_1789063328605",
+    "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
+    "snippet": "Oil prices were at their highest levels since late May, while rising wholesale inflation data sent benchmark 10-year yields closer to the key 5% level.",
+    "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Market Shock & Volatility",
+    "totalScore": 62,
+    "details": {
+      "controversy": 30,
+      "shockValue": 70,
+      "walletImpact": 80
+    }
+  },
+  {
+    "id": "yahoo_finance_0_1789063325855",
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "snippet": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "link": "https://finance.yahoo.com/technology/ai/articles/india-pocket-fm-doubles-revenue-174500297.html",
+    "source": "Yahoo Finance",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 27,
+    "details": {
+      "controversy": 20,
+      "shockValue": 30,
+      "walletImpact": 30
+    }
+  },
+  {
+    "id": "yahoo_finance_1_1789063325855",
+    "title": "Brady Corp (BRC) Forecast $6.25 to $6.75 Adjusted EPS. Can Lower-Margin IPS Deliver Accretion?",
+    "snippet": "Brady Corp (BRC) Forecast $6.25 to $6.75 Adjusted EPS. Can Lower-Margin IPS Deliver Accretion?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/brady-corp-brc-forecast-6-174350138.html",
+    "source": "Yahoo Finance",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 11,
+    "details": {
+      "controversy": 5,
+      "shockValue": 5,
+      "walletImpact": 20
+    }
+  },
+  {
+    "id": "yahoo_finance_2_1789063325855",
+    "title": "What is a mortgage interest rate buydown, and should you get one?",
+    "snippet": "What is a mortgage interest rate buydown, and should you get one?",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/buy-down-interest-rate-172228613.html",
+    "source": "Yahoo Finance",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 30,
+    "details": {
+      "controversy": 10,
+      "shockValue": 10,
+      "walletImpact": 60
+    }
+  },
+  {
+    "id": "yahoo_finance_3_1789063325855",
+    "title": "Arcosa Shareholders Approve $8.5B CRH Deal. Does the Vote De-Risk a First-Quarter 2027 Closing?",
+    "snippet": "Arcosa Shareholders Approve $8.5B CRH Deal. Does the Vote De-Risk a First-Quarter 2027 Closing?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/arcosa-shareholders-approve-8-5b-174008590.html",
+    "source": "Yahoo Finance",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 20,
+    "details": {
+      "controversy": 10,
+      "shockValue": 15,
+      "walletImpact": 30
+    }
+  },
+  {
+    "id": "yahoo_finance_4_1789063325855",
+    "title": "Stanley Black & Decker (SWK) Agreed to Sell Excel Industries. Will a Narrower Portfolio Improve Returns?",
+    "snippet": "Stanley Black & Decker (SWK) Agreed to Sell Excel Industries. Will a Narrower Portfolio Improve Returns?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-black-decker-swk-agreed-173523381.html",
+    "source": "Yahoo Finance",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 11,
+    "details": {
+      "controversy": 5,
+      "shockValue": 5,
+      "walletImpact": 20
+    }
+  },
+  {
+    "id": "investing_com_0_1789063328387",
+    "title": "MongoDB at Goldman Sachs Communacopia + Technology Conference: AI push",
+    "snippet": "MongoDB at Goldman Sachs Communacopia + Technology Conference: AI push",
+    "link": "https://www.investing.com/news/transcripts/mongodb-at-goldman-sachs-communacopia--technology-conference-ai-push-93CH-4896660",
+    "source": "Investing.com",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 11,
+    "details": {
+      "controversy": 5,
+      "shockValue": 5,
+      "walletImpact": 20
+    }
+  },
+  {
+    "id": "investing_com_1_1789063328387",
+    "title": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks",
+    "snippet": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks",
+    "link": "https://www.investing.com/news/commodities-news/brent-holds-above-100-as-tanker-attacks-deepen-supply-fear-4894851",
+    "source": "Investing.com",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Market Shock & Volatility",
+    "totalScore": 75,
+    "details": {
+      "controversy": 50,
+      "shockValue": 85,
+      "walletImpact": 85
+    }
+  },
+  {
+    "id": "investing_com_2_1789063328387",
+    "title": "Shift4 at Goldman Sachs conference: growth plan meets FX headwinds",
+    "snippet": "Shift4 at Goldman Sachs conference: growth plan meets FX headwinds",
+    "link": "https://www.investing.com/news/transcripts/shift4-at-goldman-sachs-conference-growth-plan-meets-fx-headwinds-93CH-4896659",
+    "source": "Investing.com",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 10,
+    "details": {
+      "controversy": 5,
+      "shockValue": 5,
+      "walletImpact": 15
+    }
+  },
+  {
+    "id": "investing_com_3_1789063328387",
+    "title": "Supermicro at Goldman Sachs conference: bold AI growth push",
+    "snippet": "Supermicro at Goldman Sachs conference: bold AI growth push",
+    "link": "https://www.investing.com/news/transcripts/supermicro-at-goldman-sachs-conference-bold-ai-growth-push-93CH-4896658",
+    "source": "Investing.com",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 12,
+    "details": {
+      "controversy": 5,
+      "shockValue": 10,
+      "walletImpact": 20
+    }
+  },
+  {
+    "id": "investing_com_4_1789063328387",
+    "title": "Seagate at Goldman Sachs conference: hamr drives margin gains",
+    "snippet": "Seagate at Goldman Sachs conference: hamr drives margin gains",
+    "link": "https://www.investing.com/news/transcripts/seagate-at-goldman-sachs-conference-hamr-drives-margin-gains-93CH-4896657",
+    "source": "Investing.com",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 10,
+    "details": {
+      "controversy": 5,
+      "shockValue": 5,
+      "walletImpact": 15
+    }
+  },
+  {
+    "id": "seeking_alpha_0_1789063328610",
+    "title": "Amazon investing $230M in higher pay, benefits for Whole Foods employees",
+    "snippet": "Amazon investing $230M in higher pay, benefits for Whole Foods employees",
+    "link": "https://seekingalpha.com/news/4641755-amazon-investing-230m-in-higher-pay-benefits-for-whole-foods-employees?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "source": "Seeking Alpha",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 28,
+    "details": {
+      "controversy": 20,
+      "shockValue": 20,
+      "walletImpact": 40
+    }
+  },
+  {
+    "id": "seeking_alpha_1_1789063328610",
+    "title": "Eaton, Autodesk link building data across design and operations",
+    "snippet": "Eaton, Autodesk link building data across design and operations",
+    "link": "https://seekingalpha.com/news/4641753-eaton-autodesk-link-building-data-across-design-and-operations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "source": "Seeking Alpha",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 4,
+    "details": {
+      "controversy": 0,
+      "shockValue": 0,
+      "walletImpact": 10
+    }
+  },
+  {
+    "id": "seeking_alpha_2_1789063328610",
+    "title": "Company expects fiscal 2027 adjusted EBITDA of $10M-$15M while pursuing capital raise options",
+    "snippet": "Company expects fiscal 2027 adjusted EBITDA of $10M-$15M while pursuing capital raise options",
+    "link": "https://seekingalpha.com/news/4641758-company-expects-fiscal-2027-adjusted-ebitda-of-10m-15m-while-pursuing-capital-raise-options?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "source": "Seeking Alpha",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 4,
+    "details": {
+      "controversy": 0,
+      "shockValue": 0,
+      "walletImpact": 10
+    }
+  },
+  {
+    "id": "seeking_alpha_3_1789063328610",
+    "title": "Culp expects breakeven operating income in Q2 FY27 while targeting net cash position this fiscal year",
+    "snippet": "Culp expects breakeven operating income in Q2 FY27 while targeting net cash position this fiscal year",
+    "link": "https://seekingalpha.com/news/4641757-culp-expects-breakeven-operating-income-in-q2-fy27-while-targeting-net-cash-position-this?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "source": "Seeking Alpha",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 4,
+    "details": {
+      "controversy": 0,
+      "shockValue": 0,
+      "walletImpact": 10
+    }
+  },
+  {
+    "id": "seeking_alpha_4_1789063328610",
+    "title": "The NFL's next media rights deal could look a lot different from today's",
+    "snippet": "The NFL's next media rights deal could look a lot different from today's",
+    "link": "https://seekingalpha.com/news/4641756-the-nfls-next-media-rights-deal-could-look-a-lot-different-than-todays?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "source": "Seeking Alpha",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 24,
+    "details": {
+      "controversy": 20,
+      "shockValue": 20,
+      "walletImpact": 30
+    }
+  },
+  {
+    "id": "nasdaq_0_1789063329619",
+    "title": "Where Will the Nasdaq Be in 2036? History Has Good and Bad News for Growth Investors.",
+    "snippet": "Key PointsAssuming history repeats itself, the Nasdaq Composite could roughly triple in value over the course of the coming decade.",
+    "link": "https://www.nasdaq.com/articles/where-will-nasdaq-be-2036-history-has-good-and-bad-news-growth-investors",
+    "source": "Nasdaq",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 29,
+    "details": {
+      "controversy": 10,
+      "shockValue": 20,
+      "walletImpact": 50
+    }
+  },
+  {
+    "id": "nasdaq_1_1789063329619",
+    "title": "Why Chewy Stock Is Plunging This Week",
+    "snippet": "Key PointsChewy grew sales and adjusted earnings per share by 7% and 9% in its latest quarter.",
+    "link": "https://www.nasdaq.com/articles/why-chewy-stock-plunging-week",
+    "source": "Nasdaq",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Market Shock & Volatility",
+    "totalScore": 35,
+    "details": {
+      "controversy": 10,
+      "shockValue": 40,
+      "walletImpact": 50
+    }
+  },
+  {
+    "id": "nasdaq_2_1789063329619",
+    "title": "Axsome Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
+    "snippet": "Key PointsAxsome Therapeutics has transitioned into a commercial-stage entity with rapidly growing revenue from its central nervous system treatments.",
+    "link": "https://www.nasdaq.com/articles/axsome-therapeutics-vs-viking-therapeutics-which-healthcare-stock-better-buy-2026",
+    "source": "Nasdaq",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 17,
+    "details": {
+      "controversy": 5,
+      "shockValue": 10,
+      "walletImpact": 30
+    }
+  },
+  {
+    "id": "nasdaq_3_1789063329619",
+    "title": "Bloom Energy's New Power Connect System Could Cut Installation Time by Over 40%. Here's Why That Matters More Than the Backlog.",
+    "snippet": "Key PointsBloom’s stock has skyrocketed over the past two years.",
+    "link": "https://www.nasdaq.com/articles/bloom-energys-new-power-connect-system-could-cut-installation-time-over-40-heres-why",
+    "source": "Nasdaq",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 20,
+    "details": {
+      "controversy": 5,
+      "shockValue": 20,
+      "walletImpact": 30
+    }
+  },
+  {
+    "id": "nasdaq_4_1789063329619",
+    "title": "Transat A.T. Swings To Loss In Q3 ",
+    "snippet": "(RTTNews) - On Thursday, Transat A.T. Inc. (TRZ.TO) reported a loss in the third quarter of 2026, compared to the profit in the same quarter last year.",
+    "link": "https://www.nasdaq.com/articles/transat-swings-loss-q3",
+    "source": "Nasdaq",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Market Shock & Volatility",
+    "totalScore": 21,
+    "details": {
+      "controversy": 10,
+      "shockValue": 20,
+      "walletImpact": 30
+    }
+  },
+  {
+    "id": "business_insider_0_1789063329384",
+    "title": "The top 15 party schools in the US, ranked",
+    "snippet": "Syracuse University was ranked as the seventh-best party school in the US.\nBrett Carlsen/Getty Images\n\nNiche ranked the best party colleges in the US based on student data about campus party culture.\nA school's party scene can be a big draw for some incoming students.\nFlorida State University was ranked as the top party school for 2027.\n\nFrom which schools offer the best classes to what kind of professional network they want to build, college decisions can be a complicated question for students and their families to navigate.\nBut for some students, it also comes down to one thing: where they'll have the most fun outside class.\nThis year, Florida State University is the place to be. It was ranked the No. 1 party school in the US for 2027 by Niche.\nSome schools hold large events during homecoming or football seasons, while others keep them going year-round. One school, the University of Miami, for example, has a boat-burning ceremony in which scores of students gather around Lake Osceola in Coral Gables, Florida, to watch a boat burn as part of homecoming events.\nAt some schools, party culture centers on tailgating and football games, while at others, large off-campus parties are the main social events.\nEvery year, Niche publishes a list of the best party schools in the US as part of its annual best colleges list. The site uses student surveys of the party scene on campus, ratings for athletics and Greek life, and access to bars and restaurants based on US Census data to determine the ranking.\nWhether it's large state schools or smaller colleges with tight-knit communities, these are the 15 schools across the US where students party the hardest in 2026 and 2027.\n\n15. Howard University in Washington, DC\n\nThe Washington Post/The Washington Post via Getty Images\n\n\nHoward University, a historically Black college, was named the 15th-best party school in the US.\nKnown as \"The Mecca,\" the school is the alma mater of key figures such as Supreme Court Justice Thurgood Marshall, but that doesn't mean that students sacrifice fun for academics.\nThe Washington, DC, school has a large and engaged Greek life scene. Some students attend \"Thirsty Thursdays\" parties or darties (day parties) between classes, The Root reported.\n\"The good parties are off campus,\" one student wrote on Niche. \"If you're not a party person, there are so many organizations to be a part of, so you will find your people.\"\n\n\n14. Syracuse University in Syracuse, New York\n\nNate Shron/Getty Images\n\n\nSyracuse University was ranked the 14th-best party school in the nation by Niche.\nBefore the COVID-19 pandemic, students marked the end of the school year with Mayfest, a celebration that featured performances and parties. While the tradition hasn't returned, it has inspired different events at the end of the spring semester, such as 2023's \"Block Darty.\"\nEven as traditions change, Syracuse has kept its party-school reputation thanks to its large Greek life scene.\nIn October, students celebrate homecoming with tailgates, networking events, and open house tours of campus buildings.\n\"The party culture is very fun,\" one student wrote on Niche, while another added that \"the overall culture was overly centered around Greek life and partying.\"\n\n\n13. University of Alabama in Tuscaloosa, Alabama\n\nJackson Laizure/Getty Images\n\n\nWith 71 social Greek life chapters, the University of Alabama has been one of the nation's largest fraternity and sorority communities in terms of active membership since 2021.\n\"Bama Rush,\" a 2023 documentary, took viewers inside the high-stakes world of sororities at the school, showing the fashion, culture, and shortcomings of Greek-life recruitment.\n\"I have loved the first few weeks that I have been part of the UA community,\" a university freshman wrote on Niche, adding that they'd \"made connections with students from all over the country, and that has been an eye-opening experience for me.\"\n\n\n12. University of Texas—Austin in Austin\nThe University of Texas—Austin also ranked as a top party school.\nDavid Buono/Icon Sportswire via Getty Images\n\n\nAt UT Austin, the party scene often centers on game days, campus traditions, and the bars and venues along nearby West Campus and Sixth Street.\nFootball weekends during the fall bring students, alumni, and visitors together for tailgates, concerts, and late-night celebrations across the city.\n\"The party scene is also just as lively as the people here. You'll always be able to find an event on weekends, from frat/sorority house parties to student organization events and an iconic bar street,\" one freshman wrote on Niche.\n\n\n11. Morgan State University in Baltimore\nThe Morgan State University marching band is nationally renowned.\nTIMOTHY A. CLARY / AFP via Getty Images\n\n\nMorgan State University in Baltimore ranked 11th in Niche's national ranking.\nStudents at the HBCU often gather for large block parties and daytime events, while homecoming brings an even bigger campus-wide celebration. The annual festivities typically include major concerts, alumni events, and parties across campus.\n\"The party life is very lively, there's always something going on, and there is literally something at Morgan for EVERYBODY,\" one freshman wrote on Niche.\n\n\n10. University of Illinois Urbana-Champaign in Champaign, Illinois\n\nIcon Sportswire/Icon Sportswire via Getty Images\n\n\nFamous for its party-school reputation, the University of Illinois Urbana-Champaign ranked 10th among party schools.\nThe school, which is also ranked the best public university in Illinois by Niche, has repeatedly been ranked a top party school. In 2015, the then-university chancellor, Phyllis Wise, told CNN that the school wasn't proud of the label.\nStill, students enjoy a vibrant party culture, which includes the famous Unofficial Saint Patrick's Day celebration during the first week of March, when students party through the weekend in an alternative to the traditional Saint Patrick's Day, which falls during the school's spring break.\nOne student on Niche described the school as the \"definition of study hard, party harder,\" while another wrote that \"the party scene is amazing,\" and the school is \"overall a great place to go to college if you are willing to be outgoing.\"\n\n\n9. West Virginia University in Morgantown, West Virginia\n\nGreg Fiume/NCAA Photos via Getty Images\n\n\nWest Virginia University also made it to the top 10, after Niche named it the ninth-best party school in the US.\nLocated in Morgantown, the school's social life is shaped by Mountaineers athletics, Greek life, and campus traditions. Its Greek community hosts more than 70 social, professional, academic, service, interest-based, and honorary fraternal organizations, per the school.\n\"West Virginia University is a big school with a lot to offer for many different people,\" one student wrote on Niche. \"I would recommend it to someone who is willing to go out of their way to find their community. Due to the size and party nature of the school, it can be easy to feel isolated if you don't fit in with the average WVU student. Otherwise, the nature and campus are beautiful, and the academics are great.\"\nAnother student on the site highlighted the school's other \"types of fun ways to spend the night that don't have to involve alcohol\" like the free, late-night UpAllNight event hosted by the school every weekend over the fall and spring semesters, which puts on free events like game shows, bingo, trivia, bowling, billiards, and other activities for students who want to party without the alcohol.\n\n\n8. University of Georgia in Athens, Georgia\n\nIcon Sportswire/Icon Sportswire via Getty Images\n\n\nThe University of Georgia in Athens, Georgia, was ranked the eighth-best party school in the nation.\nThe school's party reputation comes partly from its large Greek life scene, in which over 30% of undergrad students participate, the Red and Black student newspaper reported. The school also has a large football fan base, and every year, students and alums celebrate homecoming with parades, tailgates, and other events.\n\"Although the academics are hard, the party scene and friendships made will be worth it all,\" one student wrote on Niche.\n\n\n7. The Ohio State University in Columbus, Ohio\nOhio State ranked 20th on Niche's ranking.\nIan Johnson/Icon Sportswire via Getty Images\n\n\nThe social scene on campus at Ohio State is vibrant, with Buckeyes football, student organizations, and Greek life often filling up students' free time.\nThe school's homecoming celebrations are large and historic, with the tradition dating back to 1912. Celebrations last a week and include alumni reunions and a parade.\n\"It is a great school if you are looking to party, be involved, and get a good education,\" one student wrote on Niche.\n\n\n6. The Pennsylvania State University in University Park, Pennsylvania\n\nBrett Carlsen/Getty Images\n\n\nPenn State was ranked the sixth-best party school in the US.\nStudent life at the University Park school is often defined by football, Greek life, and student-led traditions like THON, a student-run charity dance marathon in which 400 student organizations and over 16,000 students participate each year, per the school.\n\"There's always something happening, whether it's a club event, a speaker, a game, or just a random Tuesday that turns into a great night with friends,\" one student wrote on Niche.\n\n\n5. University of Southern California in Los Angeles\n\nIcon Sportswire/Icon Sportswire via Getty Images\n\n\nThe University of Southern California in Los Angeles was ranked the fifth-best party school in the US.\nThe school, which has an acceptance rate of only 10% and a total cost of attendance of over $100,000, per its website, has one of the largest college football teams in the western US.\nEach year, students welcome the Trojans back to Los Angeles during a weeklong homecoming celebration.\nPart of the school's party ranking is thanks to its large Greek life scene, which often hosts parties at fraternity houses, welcoming students and their parents, including Will Ferrell.\n\"The social and party life is unmatched,\" one student wrote on Niche.\n\n\n4. University of Dayton in Dayton, Ohio\n\nMichael Hickey/Getty Images\n\n\nThe Catholic school balances religious life with its party scene and has a student experience shaped by Greek life, 240 student organizations, athletics, and on-campus student housing, which some students opt for during all four years of undergrad.\nOne of the largest events at the school is Christmas on Campus, when the campus community gathers to welcome children from the Dayton community to a tree-lighting ceremony, a mass, winter displays, and seasonal foods like hot cocoa and decorated cookies.\n\"You won't feel as if you don't have a friend,\" one student wrote on Niche.\n\"Partying and the weekend are a big part of campus life,\" another said. One student mentioned that the weekend often starts as early as Wednesday for students at the school.\n\n\n3. University of Wisconsin—Madison in Madison, Wisconsin\nThe University of Wisconsin Madison students at a 2021 football game between Notre Dame Fighting Irish and the Wisconsin Badgers at Solider Field in Chicago.\nIcon Sportswire/Dan Sanger/Getty Images\n\n\nThe University of Wisconsin—Madison was ranked third on the list.\nStudents at UW—Madison have access to various social activities, including recreational, leadership-based, and philanthropic activities. The school also has more than 60 Greek organizations.\n\"There is a good campus life and downtown Madison is a great place for socializing and interacting with others,\" one college junior wrote about the school on Niche. \"Most people here want to see you succeed, and it is a very enjoyable experience.\"\n\n\n2. Tulane University in New Orleans\n\nTyler Kaufman/Getty Images\n\n\nTulane University, which The Wall Street Journal ranked the top party school last year, is the second-best party school on Niche's 2027 list and the sixth-best school for Greek life in the US, per Niche's 2027 ranking.\nFamous for its spirited campus atmosphere, especially during Mardi Gras, this New Orleans university enjoys its party-school reputation because of its location and front-row access to the city's vibrant culture.\nIn addition to off-site bars and eateries, the college has 25 Greek chapters and more than 200 social clubs, such as the Just Dance Club, the Improv Club, and even a crochet club.\nOne college freshman summarized it best: \"The school is the definition of work hard, play hard(er)!\"\n\n\n1. Florida State University in Tallahassee, Florida\n\nButch Dill/Getty Images\n\n\nThe best party school is Florida State, which also ranked as the best school for Greek life in the US in another Niche ranking.\nSports are a huge part of campus life, with many students supporting a variety of athletics, from football to golf. When they're not rooting for their fellow classmates, students at FSU enjoy being part of the more than 700 clubs on campus.\n\"FSU is a place that accommodates many lifestyles and types of people,\" a college sophomore wrote on Niche, emphasizing that students with wide-ranging interests could enjoy themselves. \"You can have an amazing time here without taking a sip of alcohol or ever going to any of the many nightclubs because there's always something happening right on campus.\"\n\n\nRead the original article on Business Insider",
+    "link": "https://www.businessinsider.com/top-party-schools-colleges-2027",
+    "source": "Business Insider",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 19,
+    "details": {
+      "controversy": 30,
+      "shockValue": 20,
+      "walletImpact": 10
+    }
+  },
+  {
+    "id": "business_insider_1_1789063329384",
+    "title": "Wall Street already loves ChatGPT. Now OpenAI is doubling down.",
+    "snippet": "Traders work on the floor of the New York Stock Exchange.\nMichael M. Santiago/Getty Images\n\nOpenAI announced a ChatGPT product specifically for financial services on Thursday.\nThe product aims to surface better financial data for bankers and analysts.\nMany banks and financial institutions, like Morgan Stanley, adopted ChatGPT early on.\n\nChatGPT's role on Wall Street is evolving.\nOpenAI announced ChatGPT for Financial Services on Thursday, its latest foray into crafting AI tools for specific sectors. The product will bring a new glut of financial data directly into ChatGPT and provide bankers with a new way to check the tool's work.\nAs OpenAI prepares for a gigantic initial public offering expected in 2027, its latest release fits into two of its larger strategies: selling tools companies can use to automate work and building on its core AI products with industry-specific offerings.\nThe finance industry has already started embracing AI tools. Morgan Stanley adopted ChatGPT early on, and leaders across Wall Street are pouring time and money into figuring out new ways to use AI.\nOpenAI's new product will let users work with financial datasets from Daloopa, PitchBook, and LSEG News without needing separate contracts or subscriptions. The company says bringing this data under the hood of ChatGPT will get analysts information more quickly and in better formats.\nFinancial analysts will also get a new way to check ChatGPT's data work. They can get \"granular citations\" for information, letting them \"trace figures and claims back to their sources, and check the evidence as their analysis develops,\" OpenAI's press release said.\nOpenAI said it has improved its existing financial data features in ChatGPT and is working to add data from other providers, such as S&P Capital IQ, Factiva, and Moody's.\nGPT-6 Astra, the company's latest model, can retrieve the right information, run financial analyses, and then synthesize those findings, OpenAI wrote.\nThe company plans to use this launch and its partnerships with banks to make more improvements down the road, saying it will train its models to \"find, interpret, and use this data like we know the best analysts can.\"\nSarah Friar, the chief financial officer steering OpenAI through the buildup to its IPO, teased the financial services announcement at a Goldman Sachs conference on Tuesday. She named the banking focus alongside areas like chip design, life sciences, personal finance, and health.\nHave a tip? Contact this reporter via email at scouncil@businessinsider.com, or over text, Signal, Telegram, or WhatsApp at 415-757-8198. Use a personal email address, a nonwork WiFi network, and a nonwork device; here's our guide to sharing information securely.\nRead the original article on Business Insider",
+    "link": "https://www.businessinsider.com/openai-chatgpt-for-financial-services-boosts-data-for-bankers-2026-9",
+    "source": "Business Insider",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 34,
+    "details": {
+      "controversy": 30,
+      "shockValue": 30,
+      "walletImpact": 40
+    }
+  },
+  {
+    "id": "business_insider_2_1789063329384",
+    "title": "My family of 5 just moved out of my parents' house. We miss seeing them every day, and they're experiencing empty nest 2.0.",
+    "snippet": "The author and her family lived with her parents for five months.\nCourtesy of Melissa Noble\n\nMy family of five lived in my parents' house for five months before moving out. \nMy dad was diagnosed with Parkinson's Disease, and we wanted them to have their space back.\nIt's been an adjustment living in our own home again.\n\nThe first thing I noticed was the silence. Waking up in our new home, we found it so quiet in the mornings.\nWhereas a few weeks ago, I'd hear my dad shuffling around upstairs making his early-morning tea, or my mom listening to Reels, our house was suddenly deathly quiet before the kids opened their eyes.\nAugust marked five months since we began living with my folks in my childhood home. They'd kindly offered my family of five the bottom level of their two-story house after we relocated from country Victoria in Australia to the Gold Coast, where I grew up.\nThe multi-generational living arrangement worked really well and was a success overall. But when my dad was diagnosed with Parkinson's Disease in June, we decided it was time for us to move on. In August, we moved into our own home, about 10 minutes' drive from my parents.\nSince our multigenerational living experience has come to an end, the feelings that have bubbled to the surface have been interesting. Happiness, sadness, guilt, and relief all at once.\nI know that we couldn't continue living with my parents forever. They're 77 and 81. They need their own space and vice versa. But the feeling is generally bittersweet.\nThe author, her husband, and her kids enjoyed living with her parents.\nCourtesy of Melissa Noble\n\nWe've gained a lot since moving out\nIn our new home, we can all totter around in our undies, without having to worry about feeling awkward. If my husband and I have a blow-up, there's nobody within earshot, and I think that we are getting on better in general now that we have our own space.\nOur three kids also have their own rooms, which they are really enjoying (they were all piled into one bedroom at my folks' place). We no longer have to worry about the children being disruptive or navigate challenges like illnesses, different routines, or keeping shared spaces clean and tidy all the time.\nHaving privacy again is a simple pleasure I really missed.\nBut there are also a few things we've lost\nWhile I love solitude and am generally introverted, I find myself missing certain aspects of multi-generational living. My morning cups of tea with my dad, for example, when we'd sit on his veranda and chat in the sunshine, or not talk at all.\nI also miss the lunchtime discussions with Mom. Even if it was for 15 minutes lying on her bed and having a laugh about something silly.\nThough we try to drop in and visit Mom and Dad regularly, we don't necessarily see them every day. I'm hoping that in the long run, we'll have quality time together, rather than quantity.\nThey live in a new neighborhood now, 10 minutes from her parents.\nCourtesy of Melissa Noble\n\nMy folks are having mixed feelings, too\nI know without a doubt that my folks adore our kids, but I do think they were finding it a bit much toward the end of our living arrangement. They, too, are relieved, but sad it's over.\nAt one point, before we moved out, Mom mentioned she was looking forward to having her house back, then felt guilty about her comments and tried to backtrack. The very next day, she was begging us to stay an extra week.\nI think for Mom, who struggled with empty-nest syndrome when my siblings and I moved out, this whole situation has been a bit like empty-nest 2.0. Their house has gone from being a hive of activity, with grandchildren doing cartwheels in the living room and having laughing fits after dinner, to eerily quiet.\nIt's an adjustment we're navigating together\nLiving with my parents again after so many years apart was a gift, even if there were challenges. I think what makes this next chapter bittersweet is that we didn't leave because we hated each other's company; we left because we love my folks enough not to want to be a burden on them.\nWhile we no longer share a roof, I'm hoping we can continue making memories and really enjoy the time we do spend together. I'm making a concerted effort to invite my folks over for weekly dinners, and we may even start a monthly family games night.\nMy mom and dad were my first home, and they will always be welcome in ours.\nRead the original article on Business Insider",
+    "link": "https://www.businessinsider.com/family-moved-out-parents-house-pros-cons-2026-9",
+    "source": "Business Insider",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 10,
+    "details": {
+      "controversy": 10,
+      "shockValue": 10,
+      "walletImpact": 10
+    }
+  },
+  {
+    "id": "business_insider_3_1789063329384",
+    "title": "The NFL is about to test the best way to survive a brutal work trip",
+    "snippet": "Martin KEEP / AFP via Getty Images\n\nThe 49ers and Rams took very different approaches to getting to their upcoming game in Melbourne.\nThe 49ers have been in Australia for a week. The Rams opted for a last-minute arrival.\nThe two strategies highlight the different ways people tackle work trips. \n\nWondering about the best way to plan your next work trip? A bunch of football players might hold the answer.\nThe San Francisco 49ers take on the Los Angeles Rams Thursday in a clash of divisional rivals AND warring ideologies over the best way to travel for work.\nThe game kicks off from Melbourne, Australia, at 8:35 p.m. ET on Netflix because the NFL won't stop until it has more money than God growing its global football fandom. International games aren't new to the league, but the 17-hour time difference between Melbourne and California makes for a massive travel challenge.\nAnd the teams playing are taking very different approaches to their roughly 16-hour flights.\nThe 49ers got to Melbourne almost a week ago, choosing to arrive early to acclimate to the time change. The Rams, meanwhile, departed LA on Tuesday night, arriving roughly 24 hours before kickoff. When it's all said and done, they'll spend about as much time traveling to and from Melbourne as they do actually being there.\nIt's a strategy both teams have used before.\nIn recent years, the 49ers have avoided traveling home four different times when they've had back-to-back games far from San Francisco. Last year, the Rams didn't get to London until about 30 hours before kickoff, choosing to set up camp in Baltimore, where they had played the previous week.\nBoth approaches were successful — the 49ers went 7-1 on those four road trips, and the Rams swept their games in Baltimore and London.\nBut Australia is a completely different animal.\nNo right answers when traveling for work\nThe Rams and 49ers' differing approaches highlight the wide range of opinions people have on the best way to travel.\nAt the World Economic Forum in Switzerland this year, I asked executives for tips for long-haul flights. There wasn't a consensus.\n\"Just sleep whenever you can,\" David Steinbach, Global Chief Investment Officer at Hines, told me in January. \"It is a deficit, and you just try to build it back anyway you can.\"\n\"I don't try to get on any time. I just kind of let the body guide you,\" he added.\nMeanwhile …\n\"My biggest thing is getting on the plane and immediately going into the time zone I'm going into,\" Lisa Stevens, Aon's Chief Administrative Officer, told me. \"I don't oversleep.\"\n(For what it's worth, I try getting sleep on red-eye flights right away. But I'll be damned if I won't accept a free meal when they start handing them out.)\nOne thing the two NFL teams did agree on: How to get there. The Rams and 49ers both took the Airbus A380, the world's largest passenger aircraft. In a video from inside the plane, Rams player Byron Young called the setup \"boujee.\"\nOn the field … or conference hall\nYou might argue that either team's success or failure doesn't correlate with the work most of us do. I die a little inside when executives compare themselves to professional athletes in LinkedIn posts, but the physical and mental aspects of work travel weigh on us all.\nYou might not need to run a 40-yard dash, but you will get your steps in at a spread-out conference. And you're wrong if you don't think the NFL is a thinking man's game. Can you identify split-field zone coverage that's been disguised with some fake blitzes? Didn't think so.\nDon't rush to book your work trip based on tonight's results, though. Jet lag can have a long tail, something the 49ers have seen firsthand. San Francisco went 1-3 in the next game after those four extended road trips I mentioned before.\nBill Simmons, a sports media personality who has talked about this topic extensively, said he could see the 49ers winning tonight but struggling in the weeks to come as they readjust after their long acclimation in Australia.\nAs for oddsmakers, they're giving the edge to the Rams, who are 3.5-point favorites. That means the Rams need to win by at least 4 points for your bet to hit. (I wouldn't take that action, but I'm also not in a position to be giving anyone gambling advice.)\nIt's tough to read too much into the odds since the Rams are viewed as the favorite to win the Super Bowl. \nBut if they get that far, they won't have to worry about travel logistics.\nThis season's Super Bowl is being held at SoFi Stadium … home to the Los Angeles Rams.\nRead the original article on Business Insider",
+    "link": "https://www.businessinsider.com/nfl-game-49ers-rams-australia-show-differences-in-work-trips-2026-9",
+    "source": "Business Insider",
+    "region": "US",
+    "isQualified": false,
+    "assignCategory": "Personal Finance & Market",
+    "totalScore": 10,
+    "details": {
+      "controversy": 10,
+      "shockValue": 10,
+      "walletImpact": 10
+    }
+  },
+  {
+    "id": "business_insider_4_1789063329384",
+    "title": "Gas prices are climbing again. See the states where it is the most and least expensive.",
+    "snippet": "The average price of a gallon of regular gas spiked past $4, according to AAA.\nJustin Sullivan/Getty Images\n\nDrivers are getting an unwelcome September surprise at the pump.\nEscalating Middle East tensions have kept oil prices elevated since March.\nAn analyst warns high gas prices have filtered into retail shocks — and could hurt small businesses.\n\nFilling up is getting more painful by the day.\nThe national average price for a gallon of regular gas rose to $4.28 on Thursday, up 6 cents in 24 hours and 13 cents over the past two days, according to AAA.\nThat's $1.08 more per gallon than drivers were paying a year ago.\n\n\n\nThe price jump comes as the six-month war between the US and Iran enters another dangerous new phase for global oil supplies.\nUS forces have struck several Iranian oil tankers in recent days, while Iran has attacked ships and a US base in Jordan on Tuesday. Iran-backed Houthi rebels have also set Saudi oil facilities ablaze and threatened shipping in the Red Sea.\nThose attacks have further squeezed a market already strained by the near-shutdown of shipping through the Strait of Hormuz, the narrow waterway that carried roughly 20% of the world's oil before the war.\nBrent crude, the global oil benchmark, rose above $100 a barrel on Wednesday and Thursday, though it remains below its April wartime high of $126.41. Before the escalating conflict, Brent prices had stayed below $100 a barrel since 2022.\nNow, drivers are feeling it from coast to coast. California had the country's highest average regular-gas price on Thursday, at $5.89 a gallon, according to AAA. Indiana had the lowest, at $3.56.\nDiesel, a key cost for trucking and freight, hit a record national average of $5.94 a gallon. That, economists warn, has added to inflation beyond the pump.\n\n\n\nCarol Spieckerman, a retail analyst, told Business Insider that the impact of higher gas prices is \"far-reaching and underestimated\" for the entire US economy. She said that higher fuel costs have led to higher prices for airline tickets, groceries, and petroleum-based products — and those higher prices are harder for small businesses to weather.\n\"If you're a specialty retailer in a single market, higher gas prices mean fewer shopping trips and more cautious spending when customers do show up,\" she said.\n\"By comparison, retailers like Walmart that serve as convenient one-stop shops and offer delivery in many areas will benefit. Amazon, which requires no travel at all, obviously gains ground.\"\nFor now, Americans are once again confronting a familiar reality: higher costs everywhere — from the checkout line to the gas pump.\nRead the original article on Business Insider",
+    "link": "https://www.businessinsider.com/americans-paying-4-gallon-gas-2026-3",
+    "source": "Business Insider",
+    "region": "US",
+    "isQualified": true,
+    "assignCategory": "Market Shock & Volatility",
+    "totalScore": 56,
+    "details": {
+      "controversy": 30,
+      "shockValue": 50,
+      "walletImpact": 80
+    }
+  }
+]

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Today's USA News</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #0f1117;
+      color: #e2e8f0;
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px 16px;
+    }
+    h1 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+    #status {
+      color: #94a3b8;
+      font-size: 0.9rem;
+    }
+    /* Tab Navigation Styling */
+    .tabs-container {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 10px;
+      margin-bottom: 16px;
+      border-bottom: 1px solid #2d3748;
+      scrollbar-width: thin;
+    }
+    .tab-btn {
+      background-color: #1a1d27;
+      color: #94a3b8;
+      border: 1px solid #2d3748;
+      border-radius: 6px;
+      padding: 6px 14px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s ease;
+    }
+    .tab-btn:hover {
+      background-color: #242838;
+      color: #e2e8f0;
+    }
+    .tab-btn.active {
+      background-color: #2563eb;
+      color: #ffffff;
+      border-color: #2563eb;
+      font-weight: 500;
+    }
+    #newsList {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    #newsList li {
+      background-color: #1a1d27;
+      border-radius: 8px;
+      padding: 14px;
+    }
+    #newsList a {
+      color: #60a5fa;
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.95rem;
+      display: block;
+      margin-bottom: 6px;
+      line-height: 1.4;
+    }
+    #newsList a:hover {
+      text-decoration: underline;
+    }
+    .meta {
+      font-size: 0.75rem;
+      color: #64748b;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Today's USA News</h1>
+  <p id="status">Loading...</p>
+  
+  <div id="tabsContainer" class="tabs-container"></div>
+  <ul id="newsList"></ul>
+
+  <script>
+    const API_URL = "/api/usa"; 
+    let groupedNews = {};
+
+    async function loadNews() {
+  const status = document.getElementById("status");
+
+  try {
+    const response = await fetch(API_URL);
+    const result = await response.json();
+
+    if (!result.success || !result.data || result.data.length === 0) {
+      status.textContent = "No articles found for today.";
+      return;
+    }
+
+    // Unpack nested articles array from source containers
+    groupedNews = {};
+
+    result.data.forEach(sourceGroup => {
+      const sourceName = sourceGroup.source || "Other";
+      const articlesList = sourceGroup.articles || [];
+
+      // Assign articles to their respective source tab
+      groupedNews[sourceName] = articlesList.map(item => ({
+        ...item,
+        source: sourceName
+      }));
+    });
+
+    status.remove();
+
+    renderTabs();
+    const firstSource = Object.keys(groupedNews)[0];
+    if (firstSource) {
+      switchTab(firstSource);
+    }
+
+  } catch (err) {
+    status.textContent = "Failed to load news: " + err.message;
+  }
+}
+
+    function renderTabs() {
+      const container = document.getElementById("tabsContainer");
+      container.innerHTML = "";
+
+ groupedNews = {};     // Add "All" tab option
+      const sources = ["All", ...Object.keys(groupedNews).sort()];
+
+      sources.forEach(source => {
+        const btn = document.createElement("button");
+        btn.className = "tab-btn";
+        btn.textContent = source;
+        btn.onclick = () => switchTab(source);
+        container.appendChild(btn);
+      });
+    }
+
+    function switchTab(selectedSource) {
+      const list = document.getElementById("newsList");
+      list.innerHTML = "";
+
+      // Update active state on tab buttons
+      const buttons = document.querySelectorAll(".tab-btn");
+      buttons.forEach(btn => {
+        btn.classList.toggle("active", btn.textContent === selectedSource);
+      });
+
+      // Filter articles based on selection
+      let articlesToDisplay = [];
+      if (selectedSource === "All") {
+        articlesToDisplay = Object.values(groupedNews).flat();
+      } else {
+        articlesToDisplay = groupedNews[selectedSource] || [];
+      }
+
+      // Render filtered list
+      articlesToDisplay.forEach(article => {
+        const li = document.createElement("li");
+
+        const title = article.title || "No Title Available";
+        const source = article.source || "Unknown Source";
+        const link = article.link || "#";
+        
+        const rawDate = article.pubDate || article.isoDate;
+        const formattedDate = rawDate && !isNaN(new Date(rawDate)) 
+          ? new Date(rawDate).toLocaleString() 
+          : "Date Unavailable";
+
+        li.innerHTML = `
+          <a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>
+          <div class="meta">${source} – ${formattedDate}</div>
+        `;
+
+        list.appendChild(li);
+      });
+    }
+
+    loadNews();
+  </script>
+</body>
+</html>
+

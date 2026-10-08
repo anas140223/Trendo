@@ -1,0 +1,30 @@
+{
+  "name": "trendo",
+  "version": "1.0.0",
+  "description": "Trendo backend - Node.js + Express",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohd Anas",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.21.0",
+    "@mozilla/readability": "^0.6.0",
+    "axios": "^1.20.0",
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "groq-sdk": "^1.6.0",
+    "jsdom": "^30.0.1",
+    "p-limit": "^3.1.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
